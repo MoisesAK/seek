@@ -15,7 +15,7 @@ int main()
    if ((fptr = fopen("exemplo3.bin","rb")) == NULL){
        printf("Error! opening file");
 
-       // Program exits if the file pointer returns NULL.
+      
        exit(1);
    }
    
