@@ -7,6 +7,7 @@ struct threeNum
 
 int main()
 {
+   //seek1
    int n;
    struct threeNum num;
    FILE *fptr;
